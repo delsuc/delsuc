@@ -6,6 +6,13 @@ This is an account that presents my professional work, as a professor and scient
 - [Fourier_Transform](https://github.com/delsuc/Fourier_Transform) an Interactive Notebook
 - [MeMoBio2015](https://github.com/delsuc/MemoBio2015) various ideas on data-analysis presented in *Les Houches* School
 
+## Programs associated to publications
+- [Antoide de Lavoisier](https://github.com/delsuc/Antoine_de_Lavoisier) *C.R.A.S.* (2021) paper on storing the portrait of Antoide de Lavoisier in a synthetic polymer chain
+- [Gifa](https://github.com/delsuc/Gifa) *ReScience* (2020) describing the renewal of the Gifa program, with the source
+- [Plasmodesma](https://github.com/delsuc/plasmodesma) *Magn Reson Chem* (2018) on the automatic differential analysis of NMR experiments in complex samples
+- [PALMA](https://github.com/delsuc/PALMA) *Analyst* (2017) an improved algorithm for DOSY signal processing
+- [Melting curve analysis](https://github.com/delsuc/Melting-curve-analysis) *Biophys. Chem.*  (2016)  Duplex formation and secondary structure of γ-PNA observed by NMR and CD
+- [DOSY iodotriazoles Dimer](https://github.com/delsuc/DOSY-iodotriazoles-Dimer) *Chem Scien* (2016) Neutral iodotriazoles as scaffolds for stable halogen-bonded assemblies in solution
 
 <!--
 ## Codes associated to publications
