@@ -13,6 +13,7 @@ This is an account that presents my professional work, as a professor and scient
 - [PALMA](https://github.com/delsuc/PALMA) *Analyst* (2017) an improved algorithm for DOSY signal processing
 - [Melting curve analysis](https://github.com/delsuc/Melting-curve-analysis) *Biophys. Chem.*  (2016)  Duplex formation and secondary structure of γ-PNA observed by NMR and CD
 - [DOSY iodotriazoles Dimer](https://github.com/delsuc/DOSY-iodotriazoles-Dimer) *Chem Scien* (2016) Neutral iodotriazoles as scaffolds for stable halogen-bonded assemblies in solution
+- [SPIKE](https://github.com/spike-project/spike) [*arxiv* (2016)](https://arxiv.org/abs/1608.06777) the NMR and FTMS processing program - the basis for many spectrometry papers.
 
 <!--
 ## Codes associated to publications
