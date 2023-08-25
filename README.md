@@ -15,7 +15,7 @@ This is an account that presents my professional work, as a professor and scient
 - [DOSY iodotriazoles Dimer](https://github.com/delsuc/DOSY-iodotriazoles-Dimer) *Chem Scien* (2016) Neutral iodotriazoles as scaffolds for stable halogen-bonded assemblies in solution
 - [SPIKE](https://github.com/spike-project/spike) [*arxiv* (2016)](https://arxiv.org/abs/1608.06777) the NMR and FTMS processing program - the basis for many spectrometry papers.
 
-You can also find me on <a rel="me" href="https://fediscience.org/@ma_delsuc">Mastodon</a> *(but mostly rambles on the current world )*
+You can also find me on <a rel="me" href="https://fediscience.org/@ma_delsuc">Mastodon</a> *(but mostly I rambles on the current world )*
 
 <!--
 ## Codes associated to publications
