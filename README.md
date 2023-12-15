@@ -5,6 +5,7 @@ This is an account that presents my professional work, as a professor and scient
 ## Courses
 - [Fourier_Transform](https://github.com/delsuc/Fourier_Transform) an Interactive Notebook
 - [MeMoBio2015](https://github.com/delsuc/MemoBio2015) various ideas on data-analysis presented in *Les Houches* School
+- [Cours-SciKitLearn](https://github.com/delsuc/Cours-ScikitLearn)  A practical to explore SciKit-Learn and basic Data Analysis, using Penguins !
 
 ## Programs associated to publications
 - [Antoide de Lavoisier](https://github.com/delsuc/Antoine_de_Lavoisier) *C.R.A.S.* (2021) paper on storing the portrait of Antoide de Lavoisier in a synthetic polymer chain
