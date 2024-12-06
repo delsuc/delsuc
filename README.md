@@ -8,6 +8,7 @@ This is an account that presents my professional work, as a professor and scient
 - [Cours-SciKitLearn](https://github.com/delsuc/Cours-ScikitLearn)  A practical to explore SciKit-Learn and basic Data Analysis, using Penguins !
 
 ## Programs associated to publications
+- [Fourier-Transform Review](https://github.com/delsuc/Fourier-Transform-Review) *Nature Reviews Methods Primers* (2024) A review on the Fourier transform in analytical sciences
 - [Antoide de Lavoisier](https://github.com/delsuc/Antoine_de_Lavoisier) *C.R.A.S.* (2021) paper on storing the portrait of Antoide de Lavoisier in a synthetic polymer chain
 - [Gifa](https://github.com/delsuc/Gifa) *ReScience* (2020) describing the renewal of the Gifa program, with the source
 - [Plasmodesma](https://github.com/delsuc/plasmodesma) *Magn Reson Chem* (2018) on the automatic differential analysis of NMR experiments in complex samples
